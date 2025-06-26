@@ -51,7 +51,7 @@ $(document).ready(function() {
     initDarkMode();
     
     // Load data from JSON file
-    $.getJSON('data/lyrics.json', function(data) {
+    $.getJSON('assets/data/lyrics.json', function(data) {
         window.lyricsData = data;
         
         // Check which page we're on
