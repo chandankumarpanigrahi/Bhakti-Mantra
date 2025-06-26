@@ -23,20 +23,6 @@ A curated collection of Odia bhajans, slokas, and mantras with easy categorizati
 | Data Storage    | JSON           |
 | Hosting         | GitHub Pages   |
 
-## 📂 Directory Structure
-
-```
-bhakti-mantra/
-├── index.html            # Homepage with category listing
-├── categories.html       # Lyrics list by category
-├── lyric-detail.html     # Full lyric display page
-├── css/
-│   └── style.css         # Custom styles + dark mode
-├── js/
-│   └── script.js         # Dynamic content loading
-└── data/
-    └── lyrics.json       # All devotional content
-```
 
 ## 🚀 Getting Started
 
